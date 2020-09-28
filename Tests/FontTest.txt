@@ -1,0 +1,9 @@
+Licence: CC0
+Instructions Used:
+* CLS
+* LD Vx, kk
+* SNE Vx, kk
+* SYS/EXIT
+* LD F Vx
+* ADD Vx kk
+* JP addr
